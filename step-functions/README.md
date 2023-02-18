@@ -12,3 +12,15 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `cdk deploy`      deploy this stack to your default AWS account/region
 * `cdk diff`        compare deployed stack with current state
 * `cdk synth`       emits the synthesized CloudFormation template
+
+
+#### Sample payload
+```
+{
+  "maxNumber": 10,
+  "numberToCheck": 7
+}
+```
+
+# References
+- https://aws.plainenglish.io/aws-typescript-cdk-and-step-functions-bbc173333aed
