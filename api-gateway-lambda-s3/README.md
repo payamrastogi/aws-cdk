@@ -13,3 +13,6 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `cdk deploy`      deploy this stack to your default AWS account/region
 * `cdk diff`        compare deployed stack with current state
 * `cdk synth`       emits the synthesized CloudFormation template
+
+#### References
+- https://medium.com/geekculture/use-aws-cdk-to-write-amazon-api-gateway-service-for-uploading-objects-to-aws-s3-9f8e4b4be3b8
